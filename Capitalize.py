@@ -11,6 +11,7 @@ def solve(s):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print(solve('PyCharm is the best'))
+    a = input("Please Enter a string: ")
+    print(solve(a))
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
